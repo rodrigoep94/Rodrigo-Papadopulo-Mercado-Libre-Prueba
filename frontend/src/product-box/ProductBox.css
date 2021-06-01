@@ -1,0 +1,38 @@
+.ImageBox {
+    width: 180px;
+    height: 180px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.BoxContainer{
+    background-color: #FFFFFF;
+    display:inline-block;
+    margin-top: -5px;
+    border-bottom: 2px solid #EEEEEE;
+}
+
+.PriceLabel{
+    font-size: 24px;
+    padding-top: 16px;
+}
+
+.DescriptionLabel {
+    font-size: 18px;
+    padding-top: 32px;
+    cursor: pointer;
+}
+
+.ShippingIcon {
+    padding-left: 13px;
+    padding-bottom: 4px;
+}
+
+.LocationLabel{
+    font-size:12px;
+    float:right;
+}
+
+.w-100 {
+    width: 64% !important;
+}

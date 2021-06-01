@@ -1,0 +1,43 @@
+body {
+  font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  background-color: #ededed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.mt-32 {
+  padding-top:32px;
+}
+
+.pr-32 {
+  padding-right: 32px;
+}
+.pl-32 {
+  padding-left: 16px;
+}
+
+.p-16 {
+    padding: 16px;
+}
+
+.pl-16 {
+  padding-left: 16px;
+}
+
+.mb-32{
+  margin-bottom: 32px;
+}
+
+.f-left {
+    float: left;
+}
+
+.Breadcrumb{
+  color: #666666;
+  font-size:14px;
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
